@@ -22,3 +22,6 @@ Purchase     | http://dx.com/p/mini-multi-functional-gsm-personal-position-track
 ##Contents
 
 * [Device Teardown](docs/teardown.md)
+* Serial connection
+* Reading firmware
+* AT commands
