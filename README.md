@@ -25,3 +25,5 @@ Purchase     | http://dx.com/p/mini-multi-functional-gsm-personal-position-track
 * Serial connection
 * Reading firmware
 * AT commands
+* [Useful resources](docs/resources.md)
+
